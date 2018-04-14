@@ -13,7 +13,13 @@ Aqui, no **IoTreta** eu te ensinarei desde "coisinhas" legais, para fazer nas fe
 
 Para começar, vou mostrar o [**NodeRed**](https://nodered.org), um software, feito em **NodeJS**, que permite a um computador controlar um dispositivo IoT, como: Arduíno ou Raspberry. E, na verdade, você pode ter um Raspberry controlando um ou vários Arduinos!
 
-## Primeiro tutorial
+# Tuitando a temperatura direto do Arduíno
+
+Fala sério, cara! Veja esse [**novo tutorial**](./iotwitando)
+
+![](./arduino_twitter.png)
+
+# Primeiro tutorial
 
 Nesse primeiro tutorial, você vai precisar comprar um Arduíno! É simples! Compre no Mercado Livre, que custa baratinho! Mas veja se ele vem com o Cabo USB, para ligar no seu computador. Você não precisará de mais nada!
 

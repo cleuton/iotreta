@@ -1,0 +1,87 @@
+[  
+   {  
+      "id":"7edee709.37a898",
+      "type":"debug",
+      "z":"79e7ab8d.cf5b84",
+      "name":"",
+      "active":true,
+      "tosidebar":true,
+      "console":false,
+      "tostatus":false,
+      "complete":"false",
+      "x":610,
+      "y":260,
+      "wires":[  
+
+      ]
+   },
+   {  
+      "id":"8f48b6cb.01b6c",
+      "type":"gpio in",
+      "z":"79e7ab8d.cf5b84",
+      "name":"A0",
+      "state":"ANALOG",
+      "samplingInterval":"5000",
+      "pin":"0",
+      "board":"6f936954.306468",
+      "x":90,
+      "y":260,
+      "wires":[  
+         [  
+            "9c122e1a.c41e28"
+         ]
+      ]
+   },
+   {  
+      "id":"9c122e1a.c41e28",
+      "type":"function",
+      "z":"79e7ab8d.cf5b84",
+      "name":"Transformar",
+      "func":"T0 = 25 + 273.15;  \nRT0 = 1000;\nB = 3977;\nVCC = 5;\nR = 1000;\nVRT = msg.payload;\nVRT = (5.00 / 1023.00) * VRT;      \nVR = VCC - VRT;\nRT = VRT / (VR / R);               \n\nln = Math.log(RT / RT0);\nTX = (1 / ((ln / B) + (1 / T0))); \n\nTX = TX - 273.15;\nd = new Date();\nmsg.payload = \"#iot \" + d.getTime() + \" from my IoT device with #NodeRed. Temperature (c): \" +  TX;\nreturn msg;",
+      "outputs":1,
+      "noerr":0,
+      "x":350,
+      "y":260,
+      "wires":[  
+         [  
+            "7edee709.37a898",
+            "d798d9ab.329e1"
+         ]
+      ]
+   },
+   {  
+      "id":"d798d9ab.329e1",
+      "type":"twitter out",
+      "z":"79e7ab8d.cf5b84",
+      "twitter":"",
+      "name":"Tweet",
+      "x":600,
+      "y":340,
+      "wires":[  
+
+      ]
+   },
+   {  
+      "id":"6f936954.306468",
+      "type":"nodebot",
+      "z":"79e7ab8d.cf5b84",
+      "name":"nodebot arduino",
+      "username":"",
+      "password":"",
+      "boardType":"firmata",
+      "serialportName":"/dev/cu.usbmodemFA131",
+      "connectionType":"local",
+      "mqttServer":"",
+      "pubTopic":"",
+      "subTopic":"",
+      "tcpHost":"",
+      "tcpPort":"",
+      "sparkId":"",
+      "sparkToken":"",
+      "beanId":"",
+      "impId":"",
+      "uuid":"",
+      "token":"",
+      "sendUuid":""
+   }
+]
