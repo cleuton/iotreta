@@ -17,7 +17,7 @@ Fala muuuiiito sério! Isso é que é **IoT**! Estou usando o serviço [**AWS Io
 
 ## Um exemplo simples
 
-Para simplificar as coisas, vamos começar com um exemplo bem simples: O Medidor de temperatura enviando mensagens para o AWS IoT. Esqueceu qual é? É aquele que [**mostrei no tutorial passado**](.iotwitando)!!!!!
+Para simplificar as coisas, vamos começar com um exemplo bem simples: O Medidor de temperatura enviando mensagens para o AWS IoT. Esqueceu qual é? É aquele que [**mostrei no tutorial passado**](../iotwitando)!!!!!
 
 ![](../iotwitando/esquema.jpg)
 
