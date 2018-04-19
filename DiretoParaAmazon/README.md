@@ -7,6 +7,8 @@ Dirty IoT tricks!
 
 Fala muuuiiito sério! Isso é que é **IoT**! Estou usando o serviço [**AWS IoT**](https://aws.amazon.com/pt/iot/?sc_channel=PS&sc_campaign=acquisition_BR&sc_publisher=google&sc_medium=english_iot_b&sc_content=iot_e&sc_detail=aws%20iot&sc_category=iot&sc_segment=154427534320&sc_matchtype=e&sc_country=BR&s_kwcid=AL!4422!3!154427534320!e!!g!!aws%20iot&ef_id=WcgvrQAABfqRGRdV:20180418210049:s) para conectar meu dispositivo Arduíno, que mede a temperatura e envia para o [**MQTT Broker**](http://mqtt.org) dele!
 
+(*Olha só, Fera: O serviço AWS IoT* **tem custo**, ok? Existem outros MQTTs públicos gratuitos, como o [**Test MosquiTTO**](https://test.mosquitto.org))
+
 ![](https://d1.awsstatic.com/IoT/diagrams/AWS%20IoT%20Core%20MQTT.f4d984feff949092910934397f67b000c5fd816c.png)
 
 ## MQTT
