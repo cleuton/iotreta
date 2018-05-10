@@ -1,4 +1,4 @@
-![](./logo-iotreta.png)
+![](../logo-iotreta.png)
 # IoTreta
 Dirty IoT tricks!
 [**Cleuton Sampaio**](https://github.com/cleuton)
