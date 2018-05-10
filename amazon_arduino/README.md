@@ -85,6 +85,8 @@ Mudei o **Resource** da **Action** **iot:Subscribe** para qualquer recurso ("*")
 
 O fluxo é um pouco mais complexo que o anterior, e também está aqui nos arquivos deste tutorial. Você pode copiar e colar ou pode construir manualmente.
 
+O arquivo fonte do fluxo [**está aqui no Github!**](./LeituraAWS.node). Para importar, abra o NodeRed, clique no menu (canto superior direito) e escolha import / clipboard, copiando o arquivo todo e colando nele.
+
 ![](./fluxo_node.png)
 
 Os nós são esses, da esquerda para a direita, de cima para baixo: 
