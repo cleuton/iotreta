@@ -1,4 +1,4 @@
-![](../logo-iotreta.png)
+![](./logo-iotreta.png)
 # IoTreta
 Dirty IoT tricks!
 [**Cleuton Sampaio**](https://github.com/cleuton)
@@ -16,7 +16,7 @@ Para começar, vou mostrar o [**NodeRed**](https://nodered.org), um software, fe
 
 
 
-![](./arduino_twitter.png)
+
 
 # 1 - Primeiro tutorial
 
@@ -31,6 +31,8 @@ O primeiro exemplo está no arquivo "treta1_blink.node". Abra o arquivo, selecio
 [![Video](http://img.youtube.com/vi/i-sae3emnBU/0.jpg)](http://www.youtube.com/watch?v=i-sae3emnBU)
 
 # 2 - Tuitando a temperatura direto do Arduíno
+
+![](./arduino_twitter.png)
 
 Fala sério, cara! Veja esse [**novo tutorial**](./iotwitando)
 

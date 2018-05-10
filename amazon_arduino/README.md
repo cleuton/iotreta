@@ -1,9 +1,11 @@
-![](./logo-iotreta.png)
+![](../logo-iotreta.png)
 # IoTreta
 Dirty IoT tricks!
 [**Cleuton Sampaio**](https://github.com/cleuton)
 
 # O caminho de volta
+
+![](./aws_arduino.png)
 
 No [tutorial passado](../DiretoParaAmazon) mostrei como enviar as medições de temperatura para o [**MQTT Broker**](http://mqtt.org/) da Amazon (AWS IoT). Um dispositivo (**Arduino**) conectado a um controlador (um PC ou um **Raspberry PI**) coleta os dados do sensor e envia para um **tópico** do Broker.
 
