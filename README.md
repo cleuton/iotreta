@@ -13,6 +13,9 @@ Aqui, no **IoTreta** eu te ensinarei desde "coisinhas" legais, para fazer nas fe
 
 Para começar, vou mostrar o [**NodeRed**](https://nodered.org), um software, feito em **NodeJS**, que permite a um computador controlar um dispositivo IoT, como: Arduíno ou Raspberry. E, na verdade, você pode ter um Raspberry controlando um ou vários Arduinos!
 
+## Python!
+![](./python.png)
+Agora, teremos uma série de tutoriais usando **Python!** Isso mesmo! Aguarde!
 
 
 
