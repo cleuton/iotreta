@@ -3,6 +3,12 @@
 Dirty IoT tricks!
 [**Cleuton Sampaio**](https://github.com/cleuton)
 
+[![](./banner_dois_livros.png)](http://www.lcm.com.br/site/#livros/detalhesLivro/data-science-para-profissionais---utilizando-r.html)
+
+[![](./logo_fundo_branco.png)](http://datalearninghub.com)
+[![](./olhar_computacional.bmp)](http://olharcomputacional.com)
+
+
 ## Um truque "sujo"
 
 Que tal puxar o saco do chefe e conseguir aquela promoção? Que tal posar de "especialista" em IoT, sem saber P.N. de eletrônica? 
