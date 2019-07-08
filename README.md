@@ -8,6 +8,12 @@ Dirty IoT tricks!
 [![](./logo_fundo_branco.png)](http://datalearninghub.com)
 [![](./olhar_computacional.bmp)](http://olharcomputacional.com)
 
+## Nvidia Jetson Nano
+
+Criamos uma nova seção no **Iotreta** dedicada a esta placa fantástica da Nvídia:
+
+[![](./jetson/jetson.png)](./jetson)
+
 
 ## Um truque "sujo"
 
