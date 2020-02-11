@@ -3,7 +3,7 @@
 Dirty IoT tricks!
 [**Cleuton Sampaio**](https://github.com/cleuton)
 
-[![](./banner_dois_livros.png)](http://www.lcm.com.br/site/#livros/detalhesLivro/data-science-para-profissionais---utilizando-r.html)
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
 
 [![](./logo_fundo_branco.png)](http://datalearninghub.com)
 [![](./olhar_computacional.bmp)](http://olharcomputacional.com)
