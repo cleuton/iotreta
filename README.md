@@ -29,9 +29,7 @@ Para começar, vou mostrar o [**NodeRed**](https://nodered.org), um software, fe
 ![](./python.png)
 Agora, teremos uma série de tutoriais usando **Python!** Isso mesmo! Aguarde!
 
-
-
-
+![](./new.png) [**Python, Raspberry e Arduinos**](./rasp_arduino): Veja um **Raspberry PI 3** comandando dois **Arduinos** via serial!
 
 # 1 - Primeiro tutorial
 
