@@ -38,7 +38,7 @@ O código do Arduino está [**AQUI**](./serial_test/serial_test.ino). Quando car
 - No primeiro (linha 11): a++;
 - No segundo (linha 11): a--;
 
-O código do Raspberry PI 3 está em Python 3. Para executá-lo, você vai precisar instalar: 
+O código do Raspberry PI 3 está em Python 3 [**AQUI**](./twoarduinos.py). Para executá-lo, você vai precisar instalar: 
 ```
 pip install RPi.GPIO
 pip install pyserial
